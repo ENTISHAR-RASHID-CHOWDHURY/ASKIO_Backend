@@ -112,4 +112,4 @@ Swagger UI: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 ## License
 
-This project is **open-source**. Feel free to use it for learning.
+This work can be use solely based on Islamic principles.
